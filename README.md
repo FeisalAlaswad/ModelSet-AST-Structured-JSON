@@ -2,6 +2,9 @@
 
 This repository contains the **processed version of the ModelSet dataset**, where each of the **10,580 Ecore and UML models** has been transformed into a structured **JSON Abstract Syntax Tree (AST)** using a predefined, unified schema.
 
+- 🔗 [Original Dataset Website](https://modelset.github.io/)
+- 💻 [ModelSet GitHub Repository](https://github.com/modelset/modelset-dataset)
+
 The original ModelSet comprises:
 - **5,460 Ecore models** collected from GitHub
 - **5,120 UML models** retrieved from GenMyModel repositories
