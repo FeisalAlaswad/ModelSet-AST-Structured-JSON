@@ -1,6 +1,7 @@
 ﻿# 📦 ModelSet AST Dataset
 
-This repository contains the **processed version of the ModelSet dataset**, where each of the **10,580 Ecore and UML models** has been transformed into a structured **JSON Abstract Syntax Tree (AST)** using a predefined, unified schema.
+This repository contains the processed version of the ModelSet dataset, where **5,432 Ecore models** and **3,085 XMI (UML) models**—filtered for English language and appropriate structural content—have been transformed into a structured **JSON Abstract Syntax Tree (AST)** using a predefined, unified schema. All AST elements follow consistent naming conventions: **classes use PascalCase**, while **attributes and methods use camelCase**.
+
 
 - 🔗 [Original Dataset Website](https://modelset.github.io/)
 - 💻 [ModelSet GitHub Repository](https://github.com/modelset/modelset-dataset)
