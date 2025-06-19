@@ -33,7 +33,6 @@ In addition, each entry includes rich metadata labels:
 
 - `data/` — JSON AST files for each model  
 - `schema/` — Definition of the unified JSON schema  
-- `metadata/` — Model labels and source information  
 - `scripts/` — Tools used for processing and transformation  
 
 ---
